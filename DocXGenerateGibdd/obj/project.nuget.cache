@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtYl9XlIpvfZs4vpxhAT37Xj302lW3HvWMhKmPombuQcw1gQLG/6eN0+IZ+D4z7uiIwdAQN10fsj9J7Dg2CNMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arshi\\RiderProjects\\DocXGenerateGibdd\\DocXGenerateGibdd\\DocXGenerateGibdd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arshi\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\docx\\2.5.0\\docx.2.5.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\arshi\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
